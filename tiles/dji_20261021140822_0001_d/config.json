@@ -1,0 +1,62 @@
+{
+  "mode": "single",
+  "format": "raw",
+  "yaw_1": 1.69894737912671,
+  "pitch_1": 0.7358311441183254,
+  "yaw_2": 0.0,
+  "pitch_2": 0.0,
+  "lat": 47.12068083333333,
+  "lng": -123.12717108333332,
+  "label_1": "DJI_20261021140822_0001_D (2026/10/21)",
+  "label_2": "",
+  "autorotate": false,
+  "hotspots_1": [
+    {
+      "yaw": 0.07582100811168338,
+      "pitch": -0.932896872498821,
+      "title": "Stop 8",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "dji_20261021141215_0004_d",
+      "link_icon": "overview"
+    },
+    {
+      "yaw": -0.08817997970381874,
+      "pitch": 0.05756191605459193,
+      "title": "Stop 10",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "dji_20261021140935_0002_d",
+      "link_icon": "aerial"
+    },
+    {
+      "yaw": 6.166615380899994,
+      "pitch": 0.0017681829658953469,
+      "title": "Stop 11",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "dji_20261021141046_0003_d",
+      "link_icon": "aerial"
+    }
+  ],
+  "hotspots_2": [],
+  "levels_1": [],
+  "levels_2": [],
+  "pin_style": "dot",
+  "basemap_type": "xyz_tile",
+  "basemap_url": "https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
+  "mobile_1": 5000,
+  "mobile_2": 0,
+  "heading_offset": 260.9,
+  "overlays": [],
+  "platform": "aerial",
+  "alt_checked": true,
+  "alt": 15.77,
+  "rel_alt": 18.6
+}
